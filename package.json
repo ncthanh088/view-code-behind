@@ -3,7 +3,7 @@
   "displayName": "View Code Behind",
   "publisher": "digitalboy",
   "description": "Visual Studio Code extension for switching between .xaml and .xaml.cs files in .NET MAUI projects.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/ncthanh088/view-code-behind"
