@@ -11,7 +11,7 @@
 3. Use the keyboard shortcuts or context menu to navigate between code and markup/design views.
 
 ## Screenshots
-- ![View Code Behind]([[https://github.com/ncthanh088/view-code-behind/blob/master/view-code-behind.gif](https://raw.githubusercontent.com/ncthanh088/view-code-behind/master/view-code-behind.gif)](https://github.com/ncthanh088/view-code-behind/blob/master/view-code-behind.gif))
-
+- ![View Code Behind](https://raw.githubusercontent.com/ncthanh088/view-code-behind/master/view-code-behind.gif)
+  
 ## License
 This extension is licensed under the [MIT License](LICENSE.md).
