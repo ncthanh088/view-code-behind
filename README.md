@@ -1,23 +1,17 @@
-# View Code - Visual Studio Code Extension
-
-## Introduction
-
-**View Code** is an extension for Visual Studio Code that helps you easily switch between `.xaml` files and their code-behind `.xaml.cs` files in .NET MAUI projects.
+# View Code Behind Extension for Visual Studio Code
 
 ## Features
+- **Switch Between Files**: Easily toggle between `.xaml` and `.xaml.cs` files in your .NET MAUI projects.
+- **Keyboard Shortcuts**: Use `F7` to switch to code view and `Shift + F7` to view the markup/design of the current `.xaml` file.
+- **Context Menu**: Right-click on `.xaml.cs` files in the Explorer to switch directly to their corresponding `.xaml` file.
 
-- Adds a "View Code" option to the right-click context menu for `.xaml` files to open their code-behind `.xaml.cs` files.
-- Adds a "View Markup" option to the right-click context menu for `.xaml.cs` files to open their corresponding `.xaml` files.
-- Provides keyboard shortcuts for quick switching between "View Code" (F7) and "View Markup" (Shift + F7).
+## Usage
+1. Install the extension from the Visual Studio Code Marketplace.
+2. Open a `.xaml.cs` file in your project.
+3. Use the keyboard shortcuts or context menu to navigate between code and markup/design views.
 
-## Installation
+## Screenshots
+- ![View Code Behind](https://github.com/ncthanh088/view-code-behind/view-code-behind.gif)
 
-### From Visual Studio Code Marketplace
-
-**Not available yet** (currently only manual installation from a `.vsix` file).
-
-### Manual Installation from `.vsix` File
-
-1. Package the extension:
-   ```bash
-   vsce package
+## License
+This extension is licensed under the [MIT License](LICENSE.md).
